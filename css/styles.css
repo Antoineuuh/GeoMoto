@@ -60,13 +60,15 @@ ul{
 }
 
 .login a{
+    background-color: #f57c00;
     font-family: Arial;
     text-decoration: none;
     list-style-type: none;
-    color: #f57c00;
+    color: white;
     display: block;
     padding: 10px 8px;
     margin-top: 20px;
+    border-radius: 3px;
 
 
 }
@@ -94,13 +96,15 @@ ul{
 }
 
 .inscription a{
+    background-color: #f57c00;
     font-family: Arial;
     text-decoration: none;
     list-style-type: none;
-    color: #f57c00;
+    color: white;
     display: block;
     padding: 10px 8px;
     margin-top: 20px;
+    border-radius: 3px;
 
 
 }
